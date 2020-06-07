@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k23LCoJiv9HG0RNqxkh7ZJDmS8t2za255M3Ru/GhgqGQd7RLfhZzZ6COOrBi5QW7nWb5gUIqEUeh2ePAnKnPhQ==",
+  "success": true,
+  "projectFilePath": "D:\\WDE-Code\\Wde.LearningManagementSystem\\Wde.LearningManagementSystem\\Wde.LearningManagementSystem.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qasims\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
